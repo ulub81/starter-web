@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 With new text
 
 ## Purpose
-ewewe
+ewewe sdsdX
 ## Deployment
 
 Sample website with plenty of files for demos
